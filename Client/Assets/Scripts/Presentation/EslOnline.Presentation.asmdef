@@ -1,0 +1,22 @@
+{
+    "name": "EslOnline.Presentation",
+    "rootNamespace": "EslOnline.Presentation",
+    "references": [
+        "GUID:d9013a1d6d652fe4aa79ab064634dfd2",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:08b38f39e2d9e594389b7a4cf4c2c338",
+        "GUID:f10cd531ba8edf74baa9def470e45ce2",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:cb125f654e0ce564d9729ef96802a52b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

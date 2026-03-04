@@ -1,0 +1,21 @@
+{
+    "name": "EslOnline.CompositionRoot",
+    "rootNamespace": "EslOnline.CompositionRoot",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:08b38f39e2d9e594389b7a4cf4c2c338",
+        "GUID:f10cd531ba8edf74baa9def470e45ce2",
+        "GUID:d9013a1d6d652fe4aa79ab064634dfd2",
+        "GUID:4f682e06dbb3e624faedad9cc27106cc",
+        "GUID:b0e0266501433c14f90aff602a79b660"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

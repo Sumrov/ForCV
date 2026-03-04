@@ -1,0 +1,7 @@
+{
+  "name": "com.sumrovdevelopment.eslonline.sharedkernel",
+  "version": "1.0.0",
+  "displayName": "EslOnline.SharedKernel",
+  "description": "Shared models and logic between Server and Client",
+  "unity": "6000.0"
+}
